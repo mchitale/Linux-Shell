@@ -1,7 +1,7 @@
 #
-# Makefile for the CS:APP Shell Lab
 # 
-# Type "make" to build your shell and driver
+# 
+# Type "make" to build the shell and driver
 #
 CC = /usr/bin/gcc
 CFLAGS = -Wall -g -Werror -pthread
